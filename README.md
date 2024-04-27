@@ -10,5 +10,6 @@
 
 # 👨‍💻Equipe
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/110389632?v=4" width=115><br><sub>Leo Freitas</sub>](https://github.com/leosupply) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/115578866?v=4" width=115><br><sub>Raul Souza</sub>](https://github.com/RaulggSouza) |
-| :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/110389632?v=4" width=115><br><sub>Leo Freitas</sub>](https://github.com/leosupply) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/115578866?v=4" width=115><br><sub>Raul Souza</sub>](https://github.com/RaulggSouza) | [<img loading="lazy" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=115><br><sub>João Pedro Diniz</sub>](https://github.com/) |
+| :---: | :---: | :---: |
+
