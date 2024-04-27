@@ -1,7 +1,7 @@
-<h1>Preparação da Maratona de Programação InterIF</h1>
+<h1>CodeBes</h1>
 
 <h2>📋 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Como estudantes do bacharelado em engenharia de software (BES), criamos este repositório especialmente dedicado à preparação para a maratona de programação InterIF. Aqui, compartilhamos nossos algoritmos de diversos níveis de dificuldade.</p>
 
 ## 💻 Tecnologia
 <div>
