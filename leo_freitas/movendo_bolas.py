@@ -1,18 +1,18 @@
 def main():
     N, M = map(int, input().split())
-    caixas = []
-    for i in range(M):
+    bolas = {}
+    for _ in range(M):
         x, y = map(int, input().split())
-        if any(box[0] == x for box in caixas):
-            caixas = [box for box in caixas if box[0] != x]
-        caixas.append([x, y])
-    caixas.sort()
+        bolas[x] = y
+    bolas = dict(sorted(bolas.items()))
 
-    while len(caixas) < N:
-        caixas.extend(caixas)
-        
-    for i in range(N):
-        print(caixas[i][1])
-        
+    count = 0
+    while count < N:
+        for valor in bolas.values():
+            print(valor)
+            count += 1
+            if count >= N:
+                break
+
 if __name__ == "__main__":
     main()
